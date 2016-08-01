@@ -26,6 +26,7 @@ Monetization events:
 #Platforms
 * Windows UWP (PC, Phone, Xbox) 
 * Mac OS
+* Web
 * Android
 * iOs
 * Alexa
