@@ -22,3 +22,10 @@ Monetization events:
 * IDEs 
 * Spreadsheets and graphs
 * Chat
+
+#Platforms
+* Windows UWP (PC, Phone, Xbox) 
+* Mac OS
+* Android
+* iOs
+* Alexa
