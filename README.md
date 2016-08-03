@@ -30,3 +30,7 @@ Monetization events:
 * Android
 * iOs
 * Alexa
+
+#Focus
+* API First. Everything should be able to be run without the GUI
+* Security. All notes should be encrypted in cold storage and in transit. 
